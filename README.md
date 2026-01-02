@@ -1,4 +1,3 @@
-Description
 Inception is a system administration project that focuses on containerization using Docker. The goal is to set up a small infrastructure composed of Docker containers running various services: NGINX, WordPress with php-fpm, and MariaDB. The project must be done in a virtual machine and respects specific rules about Docker usage.
 
 Project Goal
